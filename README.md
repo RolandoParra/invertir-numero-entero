@@ -5,9 +5,6 @@ Programa en Python para invertir un número entero de cuatro dígitos ingresado 
 # Instrucciones:
  - Digite un número entero de 4 dígitos y el programa mostrará el número invertido.
 
-# Diagrama de flujo
-![alt text](diagrama.png)
-
 ### Variables de entrada
  - $N$: Número entero de 4 dígitos
 
